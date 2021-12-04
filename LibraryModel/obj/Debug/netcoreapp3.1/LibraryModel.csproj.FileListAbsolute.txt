@@ -1,0 +1,9 @@
+D:\MASTER\.NET2\Lab6-9\LibraryModel\bin\Debug\netcoreapp3.1\LibraryModel.deps.json
+D:\MASTER\.NET2\Lab6-9\LibraryModel\bin\Debug\netcoreapp3.1\LibraryModel.dll
+D:\MASTER\.NET2\Lab6-9\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.csprojAssemblyReference.cache
+D:\MASTER\.NET2\Lab6-9\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.AssemblyInfoInputs.cache
+D:\MASTER\.NET2\Lab6-9\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.AssemblyInfo.cs
+D:\MASTER\.NET2\Lab6-9\LibraryModel\bin\Debug\netcoreapp3.1\LibraryModel.pdb
+D:\MASTER\.NET2\Lab6-9\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.csproj.CoreCompileInputs.cache
+D:\MASTER\.NET2\Lab6-9\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.dll
+D:\MASTER\.NET2\Lab6-9\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.pdb
